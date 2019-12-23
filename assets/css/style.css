@@ -22,7 +22,6 @@ h4,
 h5,
 h6 {
     color: #323233;
-    text-transform: uppercase;
 }
 
 .navbar-brand span {
@@ -95,6 +94,25 @@ nav {
     padding: 200px 0 150px 0;
 }
 
+.banner h1{
+    font-size: 4rem;
+    font-weight: 900;
+    color: #fff;
+    font-family: 'Lobster', cursive;
+}
+
+.banner .desc{
+    color:white;
+    font-size:1.4rem;
+    max-width: 580px;
+    font-family: 'Libre Baskerville', serif;
+    line-height: 30px;
+}
+
+.img-size-1{
+    
+}
+
 .banner-heading {
     font-family: 'Lobster', cursive;
     font-size: 75px;
@@ -104,7 +122,7 @@ nav {
     color:#fff;
 }
 
-.banner-sub-heading {
+.sub-title {
     font-family: 'Libre Baskerville', serif;
     font-size: 30px;
     font-weight: 300;
